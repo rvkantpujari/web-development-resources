@@ -10,7 +10,7 @@ Helpful for **```Web Developers```**
 ## Table of Contents
 
 - ### [HTML](#html)
-- ### CSS(#css)
+- ### [CSS](#css)
 
 <br> <br>
 
