@@ -1,5 +1,5 @@
 # Web Development Resources
-Helpful for **```Web Developers```.**
+Helpful for **```Web Developers```**
 
 ---
 
@@ -10,7 +10,7 @@ Helpful for **```Web Developers```.**
 ## Table of Contents
 
 - ### [HTML](#html)
-
+- ### CSS
 
 <br> <br>
 
@@ -20,3 +20,14 @@ Helpful for **```Web Developers```.**
 - [Meta Tags Generator](https://metatags.io/)
 
 <br>
+
+## CSS
+- [CSS Mozilla Docs](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [W3Schools](https://www.w3schools.com/css/)
+- [CSS Tricks](https://css-tricks.com/)
+- [Animate.css](https://animate.style/)
+- [Animista](https://animista.net/)
+- [Hover.css](https://ianlunn.github.io/Hover/)
+- [CSS Minifier](https://cssminifier.com/)
+- [Neumorphism.io](https://neumorphism.io/)
+- [Get waves](https://getwaves.io/)
