@@ -31,3 +31,5 @@ Helpful for **```Web Developers```**
 - [CSS Minifier](https://cssminifier.com/)
 - [Neumorphism.io](https://neumorphism.io/)
 - [Get waves](https://getwaves.io/)
+- [Shape Divider](https://www.shapedivider.app/)
+- [Blob Maker](https://www.blobmaker.app/)
