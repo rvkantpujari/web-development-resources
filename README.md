@@ -11,6 +11,7 @@ Helpful for **```Web Developers```**
 
 - ### [HTML](#html)
 - ### [CSS](#css)
+- ### [JavaScript](#javascript)
 
 <br> <br>
 
@@ -33,3 +34,13 @@ Helpful for **```Web Developers```**
 - [Get waves](https://getwaves.io/)
 - [Shape Divider](https://www.shapedivider.app/)
 - [Blob Maker](https://www.blobmaker.app/)
+
+<br>
+
+## JavaScript
+- [JavaScript Mozilla Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [W3Schools](https://www.w3schools.com/js/)
+- [learnjavascript.online](https://learnjavascript.online/)
+- [freeCodeCamp JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+- [codecademy.com](https://www.codecademy.com/learn/introduction-to-javascript)
+- [JavaScript Snippets](https://www.30secondsofcode.org/js/p/1)
