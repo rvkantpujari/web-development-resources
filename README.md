@@ -35,6 +35,8 @@ Helpful for **```Web Developers```**
 - [Shape Divider](https://www.shapedivider.app/)
 - [Blob Maker](https://www.blobmaker.app/)
 - [Glassmorphism](https://glassmorphism.com/)
+- [WebGradients](https://webgradients.com/)
+- [Grabient](https://cssgradient.io/gradient-backgrounds/)
 
 <br>
 
