@@ -34,6 +34,7 @@ Helpful for **```Web Developers```**
 - [Get waves](https://getwaves.io/)
 - [Shape Divider](https://www.shapedivider.app/)
 - [Blob Maker](https://www.blobmaker.app/)
+- [Glassmorphism](https://glassmorphism.com/)
 
 <br>
 
