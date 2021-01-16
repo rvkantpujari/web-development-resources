@@ -12,6 +12,7 @@ Helpful for **```Web Developers```**
 - ### [HTML](#html)
 - ### [CSS](#css)
 - ### [JavaScript](#javascript)
+- ### [Icons](#icons)
 
 <br> <br>
 
@@ -47,3 +48,16 @@ Helpful for **```Web Developers```**
 - [freeCodeCamp JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
 - [codecademy.com](https://www.codecademy.com/learn/introduction-to-javascript)
 - [JavaScript Snippets](https://www.30secondsofcode.org/js/p/1)
+
+<br>
+
+## Icons
+- [The Noun Project](https://thenounproject.com/)
+- [Material Icons](https://material.io/resources/icons/?style=baseline)
+- [Font Awesome](https://fontawesome.com/)
+- [Glyphicons](https://www.glyphicons.com/)
+- [Flaticons](https://www.flaticon.com/)
+- [Ionicons](https://ionicons.com/)
+- [Icons8](https://icons8.com/icons)
+- [Icon Finder](https://www.iconfinder.com/)
+- [Free Icons](https://freeicons.io/)
