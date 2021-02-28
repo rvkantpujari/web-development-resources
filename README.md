@@ -9,12 +9,12 @@ Helpful for **```Web Developers```**
 
 ## Table of Contents
 
-- ### [HTML](#html)
-- ### [CSS](#css)
-- ### [JavaScript](#javascript)
-- ### [Icons](#icons)
-- ### [Free Stock Images](#free-stock-images)
-- ### [Deployment](#deployment)
+- [HTML](#html)
+- [CSS](#css)
+- [JavaScript](#javascript)
+- [Icons](#icons)
+- [Free Stock Images](#free-stock-images)
+- [Deployment](#deployment)
 
 <br> <br>
 
