@@ -14,6 +14,7 @@ Helpful for **```Web Developers```**
 - [JavaScript](#javascript)
 - [Icons](#icons)
 - [Free Stock Images](#free-stock-images)
+- [Colors](#colors)
 - [Deployment](#deployment)
 
 <br> <br>
@@ -90,3 +91,17 @@ Helpful for **```Web Developers```**
 - [Firebase](https://firebase.google.com/)
 - [Infinity Free](https://infinityfree.net/)
 - [Surge](https://surge.sh/)
+
+<br>
+
+## Colors
+- [Happy Hues](https://www.happyhues.co/)
+- [Coolors](https://coolors.co/)
+- [Color Hunt](https://colorhunt.co/)
+- [Adobe Color](https://color.adobe.com/create)
+- [Flat UI Colors](https://flatuicolors.com/)
+- [BADA55](http://bada55.io/)
+- [ColorSpace](https://mycolor.space/)
+- [uiGradients](https://uigradients.com/#Stripe)
+- [Eggradients](https://www.eggradients.com/)
+- [CSS Gradients](https://cssgradient.io/gradient-backgrounds/)
