@@ -83,17 +83,6 @@ Helpful for **```Web Developers```**
 
 <br>
 
-## Deployment
-- [Netlify](https://www.netlify.com/)
-- [Heroku](https://www.heroku.com/)
-- [Vercel](https://vercel.com/)
-- [GitHub Pages](https://pages.github.com/)
-- [Firebase](https://firebase.google.com/)
-- [Infinity Free](https://infinityfree.net/)
-- [Surge](https://surge.sh/)
-
-<br>
-
 ## Colors
 - [Happy Hues](https://www.happyhues.co/)
 - [Coolors](https://coolors.co/)
@@ -105,3 +94,14 @@ Helpful for **```Web Developers```**
 - [uiGradients](https://uigradients.com/#Stripe)
 - [Eggradients](https://www.eggradients.com/)
 - [CSS Gradients](https://cssgradient.io/gradient-backgrounds/)
+
+<br>
+
+## Deployment
+- [Netlify](https://www.netlify.com/)
+- [Heroku](https://www.heroku.com/)
+- [Vercel](https://vercel.com/)
+- [GitHub Pages](https://pages.github.com/)
+- [Firebase](https://firebase.google.com/)
+- [Infinity Free](https://infinityfree.net/)
+- [Surge](https://surge.sh/)
