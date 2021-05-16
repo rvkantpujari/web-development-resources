@@ -16,6 +16,7 @@ Helpful for **```Web Developers```**
 - [Free Stock Images](#free-stock-images)
 - [Colors](#colors)
 - [Deployment](#deployment)
+- [Chrome Extensions](#chrome-extensions)
 
 <br> <br>
 
@@ -105,3 +106,12 @@ Helpful for **```Web Developers```**
 - [Firebase](https://firebase.google.com/)
 - [Infinity Free](https://infinityfree.net/)
 - [Surge](https://surge.sh/)
+
+<br>
+
+## Chrome Extensions
+- [CSSViewer](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce)
+- [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)
+- [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa)
+- [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+
