@@ -1,11 +1,11 @@
 # Web Development Resources
-Helpful for **```Web Developers```**
+Helpful for **```Web Developers```**  
+
+<h3 align="right" style="color:red;">Don't Forget to ⭐ it. </h3>
 
 ---
 
-<h3 align="right">Don't Forget to ⭐ it. </h3>
-
-
+<div align="right">For <i><b>Interview Preparation</b></i>, check out this <a href="https://github.com/Ketan-Suthar/Interview_Preparation" target="_blank">repo</a> by Ketan Suthar.</div>
 
 ## Table of Contents
 
