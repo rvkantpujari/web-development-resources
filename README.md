@@ -73,6 +73,7 @@ Helpful for **```Web Developers```**
 - [Humaaans](https://www.humaaans.com/)
 - [unDraw.io](https://undraw.co/)
 - [Charco](https://www.karthiksrinivas.in/charco)
+- [manypixels](https://www.manypixels.co/gallery)
 
 <br>
 
