@@ -18,6 +18,7 @@ Helpful for **`Web Developers`**
 - [Free Stock Images](#free-stock-images)
 - [Colors](#colors)
 - [Deployment](#deployment)
+- [SEO Tools](#seotools)
 - [Chrome Extensions](#chrome-extensions)
 
 <br> <br>
@@ -132,11 +133,19 @@ Helpful for **`Web Developers`**
 
 <br>
 
+## SEO Tools
+
+- [Google Search Console](https://search.google.com/search-console/welcome)
+- [Yoast](https://yoast.com/)
+- [GTmetrix](https://gtmetrix.com/)
+- [SEOquake](https://www.seoquake.com/index.html)
+- [Ubersuggest](https://neilpatel.com/ubersuggest/)
+
+<br>
+
 ## Chrome Extensions
 
 - [CSSViewer](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce)
 - [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)
 - [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa)
 - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
-
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#435fce" fill-opacity="1" d="M0,256L16,240C32,224,64,192,96,170.7C128,149,160,139,192,138.7C224,139,256,149,288,170.7C320,192,352,224,384,202.7C416,181,448,107,480,101.3C512,96,544,160,576,181.3C608,203,640,181,672,181.3C704,181,736,203,768,186.7C800,171,832,117,864,117.3C896,117,928,171,960,197.3C992,224,1024,224,1056,229.3C1088,235,1120,245,1152,213.3C1184,181,1216,107,1248,106.7C1280,107,1312,181,1344,224C1376,267,1408,277,1424,282.7L1440,288L1440,320L1424,320C1408,320,1376,320,1344,320C1312,320,1280,320,1248,320C1216,320,1184,320,1152,320C1120,320,1088,320,1056,320C1024,320,992,320,960,320C928,320,896,320,864,320C832,320,800,320,768,320C736,320,704,320,672,320C640,320,608,320,576,320C544,320,512,320,480,320C448,320,416,320,384,320C352,320,320,320,288,320C256,320,224,320,192,320C160,320,128,320,96,320C64,320,32,320,16,320L0,320Z"></path></svg>
