@@ -83,6 +83,10 @@ Helpful for **`Web Developers`**
 - [manypixels](https://www.manypixels.co/gallery)
 - [DrawKit](https://www.drawkit.io/)
 - [GEE! ME](https://geeme.vercel.app/)
+- [storyset](https://storyset.com/)
+- [absurd.design](https://absurd.design/)
+- [Ouch!](https://www.uistore.design/items/ouch-free-illustrations/)
+- [Black Illustrations](https://www.blackillustrations.com/)
 
 <br>
 
