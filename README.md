@@ -71,6 +71,8 @@ Helpful for **`Web Developers`**
 - [Icons8](https://icons8.com/icons)
 - [Icon Finder](https://www.iconfinder.com/)
 - [Free Icons](https://freeicons.io/)
+- [Feather Icons](https://feathericons.com/)
+- [Fontello - icon fonts generator](https://fontello.com/)
 
 <br>
 
