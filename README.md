@@ -13,6 +13,7 @@ Helpful for **`Web Developers`**
 - [HTML](#html)
 - [CSS](#css)
 - [JavaScript](#javascript)
+- [Fonts](#fonts)
 - [Icons](#icons)
 - [Illustrations](#illustrations)
 - [Free Stock Images](#free-stock-images)
@@ -57,6 +58,16 @@ Helpful for **`Web Developers`**
 - [freeCodeCamp JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
 - [codecademy.com](https://www.codecademy.com/learn/introduction-to-javascript)
 - [JavaScript Snippets](https://www.30secondsofcode.org/js/p/1)
+
+<br>
+
+## Fonts
+
+- [Google Fonts](https://fonts.google.com/)
+- [Dafont](https://www.dafont.com/)
+- [Adobe Fonts](https://fonts.adobe.com/)
+- [1001 Free Fonts](https://www.1001freefonts.com/)
+- [Font Squirrel](https://www.fontsquirrel.com/)
 
 <br>
 
