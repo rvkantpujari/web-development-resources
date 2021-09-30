@@ -87,6 +87,7 @@ Helpful for **`Web Developers`**
 - [absurd.design](https://absurd.design/)
 - [Ouch!](https://www.uistore.design/items/ouch-free-illustrations/)
 - [Black Illustrations](https://www.blackillustrations.com/)
+- [HANDZ](https://www.handz.design/)
 
 <br>
 
