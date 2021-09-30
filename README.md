@@ -108,6 +108,8 @@ Helpful for **`Web Developers`**
 - [picspree](https://picspree.com/en)
 - [Styled Stock](https://styledstock.co)
 - [pngtree](https://pngtree.com/free-png)
+- [Canva Photos](https://www.canva.com/photos/)
+- [lifeofpix](https://www.lifeofpix.com/)
 
 <br>
 
