@@ -139,6 +139,7 @@ Helpful for **`Web Developers`**
 - [CSS Gradients](https://cssgradient.io/gradient-backgrounds/)
 - [WebGradients](https://webgradients.com/)
 - [Grabient](https://www.grabient.com/)
+- [Muzli Colors](https://colors.muz.li/)
 
 <br>
 
