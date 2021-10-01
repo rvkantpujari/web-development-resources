@@ -58,6 +58,8 @@ Helpful for **`Web Developers`**
 - [freeCodeCamp JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
 - [codecademy.com](https://www.codecademy.com/learn/introduction-to-javascript)
 - [JavaScript Snippets](https://www.30secondsofcode.org/js/p/1)
+- [WesBos JS e-Book](https://wesbos.com/javascript)
+- [WTFJS](https://github.com/denysdovhan/wtfjs)
 
 <br>
 
@@ -69,6 +71,7 @@ Helpful for **`Web Developers`**
 - [1001 Free Fonts](https://www.1001freefonts.com/)
 - [Font Squirrel](https://www.fontsquirrel.com/)
 - [Free Typography](https://freetypography.com/)
+- [MyFonts](https://www.myfonts.com/)
 
 <br>
 
@@ -139,6 +142,7 @@ Helpful for **`Web Developers`**
 - [CSS Gradients](https://cssgradient.io/gradient-backgrounds/)
 - [WebGradients](https://webgradients.com/)
 - [Grabient](https://www.grabient.com/)
+- [Muzli Colors](https://colors.muz.li/)
 
 <br>
 
