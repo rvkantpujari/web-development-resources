@@ -58,6 +58,8 @@ Helpful for **`Web Developers`**
 - [freeCodeCamp JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
 - [codecademy.com](https://www.codecademy.com/learn/introduction-to-javascript)
 - [JavaScript Snippets](https://www.30secondsofcode.org/js/p/1)
+- [WesBos JS e-Book](https://wesbos.com/javascript)
+- [WTFJS](https://github.com/denysdovhan/wtfjs)
 
 <br>
 
