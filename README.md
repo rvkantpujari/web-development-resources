@@ -105,6 +105,7 @@ Helpful for **`Web Developers`**
 - [Ouch!](https://www.uistore.design/items/ouch-free-illustrations/)
 - [Black Illustrations](https://www.blackillustrations.com/)
 - [HANDZ](https://www.handz.design/)
+- [storytale](https://storytale.io/)
 
 <br>
 
