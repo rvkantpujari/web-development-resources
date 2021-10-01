@@ -70,6 +70,7 @@ Helpful for **`Web Developers`**
 - [Adobe Fonts](https://fonts.adobe.com/)
 - [1001 Free Fonts](https://www.1001freefonts.com/)
 - [Font Squirrel](https://www.fontsquirrel.com/)
+- [Free Typography](https://freetypography.com/)
 - [MyFonts](https://www.myfonts.com/)
 
 <br>
