@@ -126,6 +126,7 @@ Helpful for **`Web Developers`**
 - [pngtree](https://pngtree.com/free-png)
 - [Canva Photos](https://www.canva.com/photos/)
 - [lifeofpix](https://www.lifeofpix.com/)
+- [freepik](https://www.freepik.com/)
 
 <br>
 
