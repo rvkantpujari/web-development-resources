@@ -72,6 +72,7 @@ Helpful for **`Web Developers`**
 - [Font Squirrel](https://www.fontsquirrel.com/)
 - [Free Typography](https://freetypography.com/)
 - [MyFonts](https://www.myfonts.com/)
+- [Fontjoy](https://fontjoy.com/)
 
 <br>
 
@@ -145,6 +146,7 @@ Helpful for **`Web Developers`**
 - [WebGradients](https://webgradients.com/)
 - [Grabient](https://www.grabient.com/)
 - [Muzli Colors](https://colors.muz.li/)
+- [HexColorPedia](https://hexcolorpedia.com/)
 
 <br>
 
