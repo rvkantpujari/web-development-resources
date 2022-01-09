@@ -47,6 +47,7 @@ Helpful for **`Web Developers`**
 - [Blob Maker](https://www.blobmaker.app/)
 - [Glassmorphism](https://glassmorphism.com/)
 - [Keyframes](https://keyframes.app/)
+- [CSS Clip-Path Maker](https://bennettfeely.com/clippy/)
 
 <br>
 
