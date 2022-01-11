@@ -148,6 +148,7 @@ Helpful for **`Web Developers`**
 - [Grabient](https://www.grabient.com/)
 - [Muzli Colors](https://colors.muz.li/)
 - [HexColorPedia](https://hexcolorpedia.com/)
+- [Color Huddle](https://colorhuddle.co/)
 
 <br>
 
