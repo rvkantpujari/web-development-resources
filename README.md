@@ -90,6 +90,8 @@ Helpful for **`Web Developers`**
 - [Free Icons](https://freeicons.io/)
 - [Feather Icons](https://feathericons.com/)
 - [Fontello - icon fonts generator](https://fontello.com/)
+- [3dicons](https://www.3dicons.com/)
+- [Iconshock](https://www.iconshock.com/)
 
 <br>
 
@@ -108,6 +110,8 @@ Helpful for **`Web Developers`**
 - [Black Illustrations](https://www.blackillustrations.com/)
 - [HANDZ](https://www.handz.design/)
 - [storytale](https://storytale.io/)
+- [Illustrations Figma](https://www.artify.co/illustrations-figma)
+- [Vector Illustrations](https://www.artify.co/vector-illustrations)
 
 <br>
 
