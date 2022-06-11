@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: whatsapp-notify
-        uses: rvkantpujari/web-development-resources@main
+        uses: kaviadigdarshan/whatsapp-actions@main
         env:
           ACCOUNT_SID: ${{ secrets.ACCOUNT_SID }}
           AUTH_TOKEN: ${{ secrets.AUTH_TOKEN }}
