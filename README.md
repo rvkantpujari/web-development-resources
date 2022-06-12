@@ -153,6 +153,7 @@ Helpful for **`Web Developers`**
 - [Muzli Colors](https://colors.muz.li/)
 - [HexColorPedia](https://hexcolorpedia.com/)
 - [Color Huddle](https://colorhuddle.co/)
+- [Color Palette Ideas](https://colorpalettes.net/)
 
 <br>
 
