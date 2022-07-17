@@ -90,8 +90,10 @@ Helpful for **`Web Developers`**
 - [Free Icons](https://freeicons.io/)
 - [Feather Icons](https://feathericons.com/)
 - [Fontello - icon fonts generator](https://fontello.com/)
-- [3dicons](https://www.3dicons.com/)
 - [Iconshock](https://www.iconshock.com/)
+- [3dicons](https://www.3dicons.com/)
+- [Free3Dicon](https://free3dicon.com/)
+- [IconScout](https://iconscout.com/)
 
 <br>
 
