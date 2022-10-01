@@ -29,6 +29,7 @@ Helpful for **`Web Developers`**
 - [HTML Mozilla Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [HTML.com](https://html.com/)
 - [Meta Tags Generator](https://metatags.io/)
+- [Learn HTML - Codecademy](https://join.codecademy.com/learn/learn-html/)
 
 <br>
 
