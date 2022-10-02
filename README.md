@@ -95,6 +95,7 @@ Helpful for **`Web Developers`**
 - [3dicons](https://www.3dicons.com/)
 - [Free3Dicon](https://free3dicon.com/)
 - [IconScout](https://iconscout.com/)
+- [Find Icons](https://findicons.com/)
 
 <br>
 
