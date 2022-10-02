@@ -49,6 +49,10 @@ Helpful for **`Web Developers`**
 - [Glassmorphism](https://glassmorphism.com/)
 - [Keyframes](https://keyframes.app/)
 - [CSS Clip-Path Maker](https://bennettfeely.com/clippy/)
+- [CSS Grid Generator](https://cssgrid-generator.netlify.app/)
+- [Cubic Bezier](https://cubic-bezier.com/#.17,.67,.83,.67)
+- [CSS Diner](https://flukeout.github.io/)
+- [FLEXBOX FROGGY](https://flexboxfroggy.com/)
 
 <br>
 
