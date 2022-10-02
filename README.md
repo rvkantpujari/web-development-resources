@@ -66,6 +66,8 @@ Helpful for **`Web Developers`**
 - [JavaScript Snippets](https://www.30secondsofcode.org/js/p/1)
 - [WesBos JS e-Book](https://wesbos.com/javascript)
 - [WTFJS](https://github.com/denysdovhan/wtfjs)
+- [Javascript Essentials](https://www.udemy.com/course/javascript-essentials/)
+- [Eloquent JavaScript](https://eloquentjavascript.net/)
 
 <br>
 
